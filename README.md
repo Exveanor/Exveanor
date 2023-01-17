@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Exveanor
 - 👀 I’m interested in games and books.
-- 🌱 I’m currently learning Java Script Basics.
+- 🌱 I’m currently learning Java Script Fundamentals.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
